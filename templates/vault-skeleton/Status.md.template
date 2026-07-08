@@ -1,0 +1,23 @@
+---
+date: {YYYY-MM-DD}
+tags: [project, {project-tag}, status]
+summary: Where we left off on {PROJECT} — read this first, every session.
+---
+# {PROJECT} — Status
+
+> Read this file **first** at the start of every session working on {PROJECT}.
+
+## Active Milestone
+
+_(name of the milestone currently in progress, from Goal.md)_
+
+## Next Concrete Action
+
+_(specific enough that a fresh session with no prior context could act on it immediately)_
+
+## Recently Completed
+
+- _(most recent 3-5 milestones, newest first — full history lives in Milestone_Log.md)_
+
+## Navigation
+→ [[Goal]] · [[Milestone_Log]] · [[Decisions]] · [[{Project}_Hub]]

@@ -1,0 +1,32 @@
+---
+date: {YYYY-MM-DD}
+tags: [project, {project-tag}]
+summary: One specific sentence describing what {PROJECT} is.
+---
+# {PROJECT}
+
+**Directory:** `{path to code, if applicable}`
+
+## What It Does
+
+Describe the project's purpose and scope in a few sentences.
+
+## Architecture
+
+High-level structure — main components, how they relate.
+
+## Tech Stack
+
+- **Language(s):**
+- **Framework(s)/Library(ies):**
+- **Storage:**
+- **External APIs/Services:**
+
+## Notes
+
+Link out to research, decisions, and module maps rather than duplicating them here:
+- [[{PROJECT}_Map_Hub]] — per-file/module maps, if this is a code project
+- [[{Project}_Decisions]] — locked architectural decisions, if using the orchestrator pattern
+
+## Navigation
+→ [[{Area}_Hub]] · [[_Hub]]

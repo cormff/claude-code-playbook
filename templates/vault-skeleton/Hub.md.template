@@ -1,0 +1,13 @@
+---
+date: {YYYY-MM-DD}
+tags: [hub]
+summary: Index of {AREA_OR_SCOPE}.
+---
+# {AREA_OR_SCOPE} Hub
+
+| File | Summary | Status |
+|------|---------|--------|
+| [[Example_Note]] | Replace with a real entry | ⬜ |
+
+## Navigation
+→ [[_Hub]]
